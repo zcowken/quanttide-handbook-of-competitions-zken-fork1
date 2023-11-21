@@ -1,6 +1,13 @@
 format: jb-book
 root: index.md
 parts:
+  - caption: 比赛管理
+    chapters: 
+      - file: competitions/initiation.md
+      - file: competitions/bp.md
+  - caption: 团队管理
+    chapters:
+      - file: teams/hr.md
   - caption: 附录
     chapters:
       - file: appendix/recruitment_notice.md
