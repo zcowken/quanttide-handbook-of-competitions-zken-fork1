@@ -13,3 +13,4 @@ repos:
     # Optionally add plugins
     additional_dependencies:
     - mdformat-myst
+    args: ['.']
